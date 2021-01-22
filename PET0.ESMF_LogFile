@@ -1,0 +1,21 @@
+20210122 115127.611 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210122 115127.611 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20210122 115127.611 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20210122 115127.611 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20210122 115127.611 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20210122 115127.611 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20210122 115127.611 INFO             PET0 Running with ESMF Version   : 8.0.1
+20210122 115127.611 INFO             PET0 ESMF library build date/time: "May 27 2020" "08:07:29"
+20210122 115127.611 INFO             PET0 ESMF library build location : /home/conda/feedstock_root/build_artifacts/esmf_1590566278358/work
+20210122 115127.611 INFO             PET0 ESMF_COMM                   : mpich3
+20210122 115127.621 INFO             PET0 ESMF_NETCDF                 : enabled
+20210122 115127.621 INFO             PET0 ESMF_PNETCDF                : disabled
+20210122 115127.621 INFO             PET0 ESMF_PIO                    : enabled
+20210122 115127.621 INFO             PET0 ESMF_YAMLCPP                : enabled
+20210122 115127.621 INFO             PET0 ESMF_MOAB                   : enabled
+20210122 115128.978 ERROR            PET0 ESMF_IOGridspec.F90:249 ESMF_GridspecInq Failure  - - Duplicate longitude variables defined
+20210122 115128.978 ERROR            PET0 ESMF_IO_Gridspec_C.F90:56 f_esmf_gridspec_inq Failure  - Internal subroutine call returned Error
+20210122 115128.997 ERROR            PET0 ESMF_IOGridspec.F90:249 ESMF_GridspecInq Failure  - - Duplicate longitude variables defined
+20210122 115128.997 ERROR            PET0 ESMF_IO_Gridspec_C.F90:56 f_esmf_gridspec_inq Failure  - Internal subroutine call returned Error
+20210122 115129.010 ERROR            PET0 ESMF_IOGridspec.F90:249 ESMF_GridspecInq Failure  - - Duplicate longitude variables defined
+20210122 115129.010 ERROR            PET0 ESMF_IO_Gridspec_C.F90:56 f_esmf_gridspec_inq Failure  - Internal subroutine call returned Error
